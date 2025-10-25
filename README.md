@@ -1,12 +1,12 @@
 # 🚀 Zeel Barot - Portfolio Website
 
-[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue?logo=github)](https://ZeelBarot.github.io)
+[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue?logo=github)](https://ZeelBarot.github.io/portfolio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ZeelBarot/ZeelBarot.github.io/graphs/commit-activity)
 
 > A modern, responsive portfolio website showcasing my journey as a Computer Engineering graduate specializing in Software Development, AI/ML, and Web Technologies.
 
-**Live Website:** [ZeelBarot.github.io](https://ZeelBarot.github.io/portfolio)
+**Live Website:** [ZeelBarot.github.io/portfolio](https://ZeelBarot.github.io/portfolio)
 
 ---
 
