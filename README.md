@@ -6,7 +6,7 @@
 
 > A modern, responsive portfolio website showcasing my journey as a Computer Engineering graduate specializing in Software Development, AI/ML, and Web Technologies.
 
-**Live Website:** [zeelbarot.dev](https://zeelbarot.dev) | [ZeelBarot.github.io](https://ZeelBarot.github.io)
+**Live Website:** [ZeelBarot.github.io](https://ZeelBarot.github.io/portfolio)
 
 ---
 
